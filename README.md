@@ -14,7 +14,7 @@
 
 ### Community
 
-I hope learn a lot with the community and spread knowledge.So let´s code and help each other in this journey.
+My aim is learn and share knowledge.So let´s code and help each other in this journey.
 ### Always studying 📚
 
 ✔️ Bootcamp Everis Full Stack - DIO
