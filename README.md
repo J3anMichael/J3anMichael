@@ -1,8 +1,8 @@
 
 
-<h1 align="center"> Hi, I'm Jean Michael :grin: :coffee: </h1>
+<h1 align="center"> Hi, I'm Jean Michael 😀 ☕ </h1>
 
-### Full Stack Developer :briefcase:
+### Full Stack Developer 💼
 
 ✔️ HTML, CSS
 
@@ -15,17 +15,17 @@
 ### Community
 
 I hope learn a lot with the community and spread knowledge.So let´s code and help each other in this journey.
-### Always studying :books:
+### Always studying 📚
 
 ✔️ Bootcamp Everis Full Stack - DIO
 
 ⏭️ Bootcamp Node.js - IGTI, start in the first week of May
 
-#### and other courses.. :rocket:
+#### and other courses.. 🚀
 
 ## About me 
 
-:book: Reader | :family: Socialize | :👨‍💻: Programming | :clapper: Movies | 🎮: lolzinho
+📖 Reader | 👪 Socialize | 👨‍💻 Programming | 🎬 Movies | 🎮 lolzinho
 
 - 🌎 I'm from Curitiba, Paraná - Brasil
 - 👨‍🎓 Information Systems student
@@ -35,14 +35,14 @@ I hope learn a lot with the community and spread knowledge.So let´s code and he
 
 👯 collaborate on some project
 
-:speech_balloon: talk
+💬 talk
 
 🤓 learn together with me
 
-:punch: help
+👊 help
 
 
-## How to reach me :mailbox_with_no_mail:
+## How to reach me 📭
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christy-hauschild/)](https://www.linkedin.com/in/jean-michael-790631195/)
 
