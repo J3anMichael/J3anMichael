@@ -10,12 +10,11 @@
 
 ✔️ Node
 
+✔️ SQL
+
 ### Community
 
-I always seek to contribute to the community and spread knowledge. Thinking about it my brother and I created Coday, a blog with tips on the programming area.
-
-#### <a href="https://coday.netlify.app/" target="_blank" style="color:black !important; text-decoration: none;"> <img src="https://coday.netlify.app/static/1ec13f31462098e7d6a4fa51409f1b68/69585/logo-coday.png" /> </a>
-
+I hope learn a lot with the community and spread knowledge.So let´s code and help each other in this journey.
 ### Always studying :books:
 
 ✔️ Computer Technician - IFSul &nbsp; & &nbsp; Bootcamp Everis Full Stack - DIO
@@ -26,11 +25,11 @@ I always seek to contribute to the community and spread knowledge. Thinking abou
 
 ## About me 
 
-:book: Reader | :family: Socialize | :👨‍💻: Programming | :clapper: Movies | :gaming: lolzinho
+:book: Reader | :family: Socialize | :👨‍💻: Programming | :clapper: Movies | 🎮: lolzinho
 
-- :earth_americas: I'm from Rio Grande do Sul - Brasil
-- :hamburger: I love to cook
-- :eyes: I'm curious
+- :earth_americas: I'm from Curitiba, Paraná - Brasil
+- 👨‍🎓: Information Systems student
+- 🐈: cat father 
 
 ## Look me up if you want...
 
@@ -45,6 +44,6 @@ I always seek to contribute to the community and spread knowledge. Thinking abou
 
 ## How to reach me :mailbox_with_no_mail:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christy-hauschild/)](https://www.linkedin.com/in/christy-hauschild/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christy-hauschild/)](https://www.linkedin.com/in/jean-michael-790631195/)
 
 :email: : jeanmmclaudino@gmail.com
