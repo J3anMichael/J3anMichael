@@ -17,9 +17,9 @@
 I hope learn a lot with the community and spread knowledge.So let´s code and help each other in this journey.
 ### Always studying :books:
 
-✔️ Computer Technician - IFSul &nbsp; & &nbsp; Bootcamp Everis Full Stack - DIO
+✔️ Bootcamp Everis Full Stack - DIO
 
-✔️ Bootcamp GoStack - Rocketseat
+⏭️ Bootcamp Node.js - IGTI, start in the first week of May
 
 #### and other courses.. :rocket:
 
@@ -27,9 +27,9 @@ I hope learn a lot with the community and spread knowledge.So let´s code and he
 
 :book: Reader | :family: Socialize | :👨‍💻: Programming | :clapper: Movies | 🎮: lolzinho
 
-- :earth_americas: I'm from Curitiba, Paraná - Brasil
-- 👨‍🎓: Information Systems student
-- 🐈: cat father 
+- 🌎 I'm from Curitiba, Paraná - Brasil
+- 👨‍🎓 Information Systems student
+- 🐈 Cat father 
 
 ## Look me up if you want...
 
