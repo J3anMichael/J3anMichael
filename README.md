@@ -44,6 +44,7 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
 
 ## How to reach me 📭
 
-	![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)(https://www.linkedin.com/in/jean-michael-790631195/)
+	<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+	(https://www.linkedin.com/in/jean-michael-790631195/)
 
 ✉️ jeanmmclaudino@gmail.com
