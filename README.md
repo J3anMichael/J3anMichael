@@ -46,5 +46,7 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
 
 	
 	(https://www.linkedin.com/in/jean-michael-790631195/)
+	
+	< img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ✉️ jeanmmclaudino@gmail.com
