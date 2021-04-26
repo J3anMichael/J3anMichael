@@ -44,6 +44,6 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
 
 ## How to reach me 📭
 	
-(https://www.linkedin.com/in/jean-michael-790631195/)
+[![Linkedin Badge] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-michael-790631195/)](https://www.linkedin.com/in/jean-michael-790631195/)
 
 ✉️ jeanmmclaudino@gmail.com
