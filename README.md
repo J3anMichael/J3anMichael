@@ -43,7 +43,5 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
 
 
 ## How to reach me 📭
-	
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jean-michael-790631195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jean-michael-790631195/" height="30" width="40" /></a>
 
 ✉️ jeanmmclaudino@gmail.com
