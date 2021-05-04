@@ -8,6 +8,8 @@
 
 ✔️ Javascript
 
+✔️ React 
+
 ✔️ Node
 
 ✔️ SQL
