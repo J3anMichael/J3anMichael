@@ -51,3 +51,9 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
     </a>
 
 ✉️ jeanmmclaudino@gmail.com
+
+
+ ## Total de Visitas no perfil :detective: <br>
+ </p><p align="center"> 
+   <img align="center" src="https://profile-counter.glitch.me/J3anMichael/count.svg">
+ </p>
