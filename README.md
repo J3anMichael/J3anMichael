@@ -53,7 +53,7 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
  <a href="mailto:rodrigoaugusto96@outlook.com">
         <img src="https://img.shields.io/badge/email-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:jeanmmclaudino@gmail.com">
     </a>
-    <p align="center">
+    <p align="">
     <a href="https://www.instagram.com/https.j3an_michael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" target="_blank"></a>
 
 
