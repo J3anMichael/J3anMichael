@@ -50,7 +50,10 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/jean-michael-790631195/">
     </a>
 
-✉️ jeanmmclaudino@gmail.com
+ <a href="mailto:rodrigoaugusto96@outlook.com">
+        <img src="https://img.shields.io/badge/email-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:jeanmmclaudino@gmail.com">
+    </a>
+
 
 
  ## Total de Visitas no perfil :detective: <br>
