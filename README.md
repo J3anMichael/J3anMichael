@@ -47,7 +47,7 @@ My aim is learn and share knowledge.So let´s code and help each other in this j
 ## How to reach me 📭
 
 <p align="center">
-<a href="https://www.linkedin.com/in/roh-augusto96/">
+<a href="https://www.linkedin.com/in/jean-michael-790631195/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/jean-michael-790631195/">
     </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
