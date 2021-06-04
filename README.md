@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Jean Michael 😀 ☕ </h1>
 
-### Full Stack Developer 💼
+### Web Developer 💼
 
 ✔️ HTML, CSS
 
