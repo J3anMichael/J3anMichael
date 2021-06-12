@@ -21,7 +21,7 @@ My aim is learn and share knowledge. So let´s code and help each other in this 
 
 ✔️ Bootcamp Everis Full Stack - DIO
 
-⏭️ Bootcamp React - IGTI, start in the first week of May
+⏭️ Bootcamp React - IGTI, loading... 
 
 #### and other courses.. 🚀
 
