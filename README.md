@@ -9,12 +9,12 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **J3anMichael** {
+ val name = "Jean Michael"
+ val acknowledgements = "Desenvolvedor Web"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("HTML", "CSS", "JavaScript", "React") 
 
 }
 ```
@@ -45,17 +45,11 @@ object **SEU NOME** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=midnight-purple&line_height=27" alt="Jean Michael" github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/https.j3an_michael/
+[linkedin]: https://www.linkedin.com/in/j3anmichael/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
