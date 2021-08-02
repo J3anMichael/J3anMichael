@@ -2,7 +2,7 @@
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## <img width="45" alt="about" src="https://image.flaticon.com/icons/png/512/1688/1688502.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://img-premium.flaticon.com/png/512/4389/premium/4389827.png?token=exp=1627911445~hmac=fcdfca9bcda29d302af9db4e9685684a"> Mais sobre mim
 
 
 
