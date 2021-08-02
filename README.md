@@ -36,11 +36,11 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/J3anMichael">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&theme=midnight-purple&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/J3anMichael">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=midnight-purple&line_height=27" alt="Jean Michael" github stats"/>
 </a>
 
