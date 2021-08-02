@@ -12,7 +12,7 @@
  "about": {
     "name": "Jean Michael",
     "age": "0.2.4",
-    "course": information-systems",
+    "course": "information-systems",
     "eject": "react-scripts eject",
     "languages": ["HTML", "CSS", "JavaScript", "React"]
   }
