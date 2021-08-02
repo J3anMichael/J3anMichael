@@ -15,7 +15,7 @@
     "name": "Jean Michael",
     "age": "0.2.4",
     "course": "information-systems",
-    "eject": "react-scripts eject",
+    "goal": "be-a-good-developer",
     "languages": ["HTML", "CSS", "JavaScript", "React"]
   }
 ```
