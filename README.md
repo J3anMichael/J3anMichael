@@ -9,12 +9,12 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **J3anMichael** {
- val name = "Jean Michael"
- val acknowledgements = "Desenvolvedor Web"
+var About {
+ var name = "Jean Michael";
+ var acknowledgements = "Desenvolvedor Web";
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "React") 
+ var primarySkillset = "ALGUMAS HABILIDADES"
+ var languages = listOf("HTML", "CSS", "JavaScript", "React") 
 
 }
 ```
