@@ -6,9 +6,10 @@
 
 
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<iframe src="https://giphy.com/embed/13UZisxBxkjPwI" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cheezburger-coding-cheezburgernerds-13UZisxBxkjPwI">via GIPHY</a></p>
+<img align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
 
+
+https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1
 ```kotlin
  "about": {
     "name": "Jean Michael",
