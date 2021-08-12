@@ -6,7 +6,7 @@
 
 
 
-<img align="right" width="300" src="https://gph.is/g/E0Q6XN8" />
+<img align="right" width="300" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 
 
