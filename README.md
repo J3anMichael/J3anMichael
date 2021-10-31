@@ -1,6 +1,5 @@
 ### Hello devs 👋
 
-É um grande prazer ver vocês por aqui.
 
 ## <img width="45" alt="about" src="https://image.flaticon.com/icons/png/512/1458/1458201.png"> Mais sobre mim
 
