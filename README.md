@@ -49,6 +49,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=midnight-purple&line_height=27" alt="Jean Michael" github stats"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact)](https://github.com/J3anMichael/github-readme-stats)
+
+
 [instagram]: https://www.instagram.com/https.j3an_michael/
 [linkedin]: https://www.linkedin.com/in/j3anmichael/
 <br>
