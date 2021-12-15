@@ -40,7 +40,7 @@
 
 ## **GitHub Estatísticas**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/J3anMichael/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact)](https://github.com/J3anMichael/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=dracula)
 
