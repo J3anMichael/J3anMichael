@@ -40,11 +40,9 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/J3anMichael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&theme=midnight-purple&hide_langs_below=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/J3anMichael/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=dracula)
 
 
 
