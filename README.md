@@ -1,6 +1,6 @@
 ### Hey, How it's going? 👋
 
-<img align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
+<img style="border-radius: 10px;" align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
 
 ```kotlin
  "about": {
