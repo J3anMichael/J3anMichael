@@ -1,4 +1,4 @@
-### Hello devs 👋
+### Hey, How it's going? 👋
 
 
 ## <img width="45" alt="about" src="https://image.flaticon.com/icons/png/512/1458/1458201.png"> Mais sobre mim
@@ -20,7 +20,7 @@
   }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages ​​and Tools:**  
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +33,7 @@
   
 </div>
 
-## **GitHub Estatísticas**
+## **My stats**
 
 <div align="initial">
   <a href="https://github.com/J3anMichael">
@@ -49,7 +49,7 @@
 [linkedin]: https://www.linkedin.com/in/j3anmichael/
 <br>
 
-#### Rede Sociais!
+#### Social networks!
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
