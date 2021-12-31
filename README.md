@@ -1,14 +1,6 @@
 ### Hey, How it's going? 👋
 
-
-## <img width="45" alt="about" src="https://image.flaticon.com/icons/png/512/1458/1458201.png"> Me
-
-
-
 <img align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
-
-
-
 
 ```kotlin
  "about": {
