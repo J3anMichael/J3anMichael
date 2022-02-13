@@ -8,7 +8,7 @@
     "age": "0.2.4",
     "course": "Information-Systems",
     "goal": "Be-a-good-developer",
-    "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "VueJS", "C#"]
+    "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "VueJS", "C#", "Java"]
   }
 ```
 
