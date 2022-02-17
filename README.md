@@ -40,7 +40,7 @@
 
 
 
-[instagram]: https://www.instagram.com/https.j3an_michael/
+[instagram]: https://www.instagram.com/j3an_michael/
 [linkedin]: https://www.linkedin.com/in/j3anmichael/
 <br>
 
