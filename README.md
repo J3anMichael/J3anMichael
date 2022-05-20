@@ -1,5 +1,5 @@
 ### Hey, How it's going? 👋
-
+<div>
 <img style="border-radius: 10px;" align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
 
 ```kotlin
@@ -25,6 +25,7 @@
  <img align="center" alt="Jean-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div>
+ </div>
 
 ## **My stats**
 
