@@ -1,7 +1,7 @@
 ### Hey, How it's going? 👋
 <div>
 <img style="border-radius: 10px;" align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VePtB3roynxfLYicuV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MeeshoTech-code-pull-github-VePtB3roynxfLYicuV">via GIPHY</a></p>
+ 
 
 ```kotlin
  "about": {
