@@ -1,6 +1,7 @@
 ### Hey, How it's going? 👋
 <div>
-<img style="border-radius: 10px;" align="right" width="300" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" />
+<img style="border-radius: 10px;" align="right" width="300" src="[https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif](https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif?cid=ecf05e47gt5oywznnox73kjed0701j6kzpp9qnnf1481t85t&rid=giphy.gif&ct=g)" />
+ 
  
 
 ```kotlin
