@@ -9,7 +9,6 @@
     "name": "Jean Michael",
     "age": "0.2.5",
     "course": "Information-Systems",
-    "Qualification Level": "Junior",
     "goal": "Be-a-good-developer",
     "technologies": ["C#", ".Net", "EFCore", "Javascript", "ReactJs", "VueJs"]
   }
