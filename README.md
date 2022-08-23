@@ -1,6 +1,6 @@
 ### Hey, How it's going? 👋
 <div>
-<img style="border-radius: 10px;" align="right" width="300" height="450px" src="https://media3.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47uszbm01rhxeifai9dswenqrl21r63eehf0ht637b&rid=giphy.gif&ct=g" />
+<img style="border-radius: 10px;" align="right" width="300" height="187px" src="https://media3.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47uszbm01rhxeifai9dswenqrl21r63eehf0ht637b&rid=giphy.gif&ct=g" />
  
  
 
