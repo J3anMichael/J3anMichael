@@ -35,7 +35,7 @@
 ![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
 <div align="initial">
   <a href="https://github.com/J3anMichael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=winter&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=winter&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact&langs_count=8&theme=winter"/>
   
 </div>
