@@ -7,7 +7,7 @@
 ```kotlin
  "about": {
     "name": "Jean Michael",
-    "age": "0.2.5",
+    "age": "0.2.7",
     "course": "Information-Systems",
     "goal": "Be-a-good-developer",
     "technologies": ["C#", ".Net", "EFCore", "Javascript", "ReactJs", "VueJs"]
