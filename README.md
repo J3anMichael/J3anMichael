@@ -1,66 +1,77 @@
-# Hi there 👋 I'm Jean Michael
+# Jean Michael
 
-💻 Back-end Developer specialized in .NET, building scalable and high-performance systems.
-
----
-
-## 🚀 About Me
-
-I’m a Back-end Developer with experience in designing and developing robust APIs and enterprise integrations.
-
-- ⚡ Improved API performance by up to **15x**
-- 🧠 Strong knowledge in **C#, .NET, and SQL Server**
-- 🏗️ Experience with **DDD, CQRS, and Clean Architecture**
-- 🔄 Working with **RabbitMQ and Kafka** for asynchronous systems
-- 🌍 Open to **international opportunities (Remote or Relocation)**
+Back-end Developer | .NET • C# • REST APIs • Distributed Systems
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Backend
-- C#  
-- .NET / .NET Core  
-- REST APIs  
-- Entity Framework  
+Back-end Developer focused on building scalable and high-performance systems using .NET.
 
-### Architecture & Systems
-- Microservices  
-- Clean Architecture  
-- Domain-Driven Design (DDD)  
-- CQRS  
+I have experience designing and developing REST APIs, enterprise integrations, and improving system performance — achieving up to **15x faster response times** through optimization and architectural improvements.
 
-### Databases & Messaging
-- SQL Server  
-- RabbitMQ  
-- Kafka  
-
-### Tools & Others
-- Git  
-- Docker  
-- Azure (basic)  
+My work is centered around clean, maintainable, and scalable solutions, applying modern software engineering principles.
 
 ---
 
-## 📊 GitHub Stats
+## Core Expertise
 
-<div>
-  <a href="https://github.com/J3anMichael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 🌐 Connect with me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/j3anmichael/
-- 📷 Instagram: https://www.instagram.com/j3an_michael/
+- .NET / .NET Core
+- C#
+- REST API Design
+- SQL Server & Query Optimization
+- Microservices Architecture
+- Distributed Systems
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- CQRS
+- Event-Driven Architecture
 
 ---
 
-## ⚡ What I'm focusing on
+## Experience Highlights
 
-- Building scalable back-end systems  
-- Improving API performance and architecture  
-- Learning more about cloud and distributed systems  
+- Improved API performance by **15x** through query optimization and architectural refactoring  
+- Designed scalable back-end systems for banking and enterprise environments  
+- Implemented asynchronous communication using **RabbitMQ and Kafka**  
+- Built and maintained robust REST APIs used in production systems  
+
+---
+
+## Tech Stack
+
+**Backend:**  
+C#, .NET / .NET Core, Entity Framework  
+
+**Architecture:**  
+Microservices, DDD, CQRS, Clean Architecture  
+
+**Data & Messaging:**  
+SQL Server, RabbitMQ, Kafka  
+
+**Tools:**  
+Git, Docker, Azure (basic)  
+
+---
+
+## Current Focus
+
+- Designing scalable distributed systems  
+- Improving API performance and reliability  
+- Deepening knowledge in cloud architecture  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/j3anmichael/
+- Email: jeanmmclaudino@gmail.com  
+
+---
+
+## GitHub Stats
+
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
