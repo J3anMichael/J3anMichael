@@ -1,50 +1,66 @@
-### Hey, How it's going? 👋
+# Hi there 👋 I'm Jean Michael
+
+💻 Back-end Developer specialized in .NET, building scalable and high-performance systems.
+
+---
+
+## 🚀 About Me
+
+I’m a Back-end Developer with experience in designing and developing robust APIs and enterprise integrations.
+
+- ⚡ Improved API performance by up to **15x**
+- 🧠 Strong knowledge in **C#, .NET, and SQL Server**
+- 🏗️ Experience with **DDD, CQRS, and Clean Architecture**
+- 🔄 Working with **RabbitMQ and Kafka** for asynchronous systems
+- 🌍 Open to **international opportunities (Remote or Relocation)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- C#  
+- .NET / .NET Core  
+- REST APIs  
+- Entity Framework  
+
+### Architecture & Systems
+- Microservices  
+- Clean Architecture  
+- Domain-Driven Design (DDD)  
+- CQRS  
+
+### Databases & Messaging
+- SQL Server  
+- RabbitMQ  
+- Kafka  
+
+### Tools & Others
+- Git  
+- Docker  
+- Azure (basic)  
+
+---
+
+## 📊 GitHub Stats
+
 <div>
-<img style="border-radius: 10px;" align="right" width="300" height="152px" src="https://media3.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47uszbm01rhxeifai9dswenqrl21r63eehf0ht637b&rid=giphy.gif&ct=g" />
- 
- 
-
-```kotlin
- "about": {
-    "name": "Jean Michael",
-    "age": "0.2.7",
-    "course": "Information-Systems",
-    "goal": "Be-a-good-developer",
-    "technologies": ["C#", ".Net", "EFCore", "Javascript", "ReactJs", "VueJs"]
-  }
-```
-
-## **Languages ​​and Tools:**  
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Jean-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Jean-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-</div>
- </div>
-
-## **My stats**
-<div align="initial">
   <a href="https://github.com/J3anMichael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=winter&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact&langs_count=8&theme=winter"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3anMichael&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3anMichael&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+---
 
+## 🌐 Connect with me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/j3anmichael/
+- 📷 Instagram: https://www.instagram.com/j3an_michael/
 
+---
 
-[instagram]: https://www.instagram.com/j3an_michael/
-[linkedin]: https://www.linkedin.com/in/j3anmichael/
-<br>
+## ⚡ What I'm focusing on
 
-#### Social networks!
-
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+- Building scalable back-end systems  
+- Improving API performance and architecture  
+- Learning more about cloud and distributed systems  
